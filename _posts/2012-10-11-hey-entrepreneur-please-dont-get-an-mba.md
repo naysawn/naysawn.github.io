@@ -1,5 +1,5 @@
 ---
-title: 'Hey Entrepreneur' Please Don't Get an MBA'
+title: 'Hey Entrepreneur, Please Do not Get an MBA'
 author: admin
 layout: post
 permalink: /hey-entrepreneur-please-dont-get-an-mba/
@@ -22,7 +22,7 @@ Furthermore, for a person who is motivated to teach themselves, many of these to
 
 ### 2. Tuition Costs
 
-Excluding cost of living, tuition from a top-five business school is easily [over $100,000][9]. While you could go to a cheaper school, I really believe that going to anything that isn't in the top 10 somewhat defeats the whole purpose of going to a business school to building a network and a good stamp on your resume.
+Excluding cost of living, tuition from a top-five business school is easily [over $100,000][9]. While you could go to a cheaper school, I really believe that going to anything that is not in the top 10 somewhat defeats the whole purpose of going to a business school to building a network and a good stamp on your resume.
 
 Bootstrapping a start-up is actually dramatically cheaper. The highest cost in most internet-based start-ups is salaries of the team, so long as you are willing to downsize your lifestyle, you can live on your savings while you and your co-founders are creating the company and not drawing a salary..
 

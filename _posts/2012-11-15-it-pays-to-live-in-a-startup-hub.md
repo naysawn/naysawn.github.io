@@ -3,14 +3,8 @@ title: It Pays To Live In a Startup Hub
 author: admin
 layout: post
 permalink: /it-pays-to-live-in-a-startup-hub/
-socialize_text:
-  - 'If you enjoyed this post, please consider <a href="#comments">leaving a comment</a> or <a href="http://naysawn.com/feed/">subscribing to this<abbr title="Really Simple Syndication"> RSS</abbr> feed</a>.'
-socialize:
-  - 21,1,2,5,7,11,12
 dsq_thread_id:
-  - 916626629
-standard_seo_post_level_layout:
-  - 
+  - 916626629 
 standard_seo_post_meta_description:
   - 'I think it makes sense build a startup in San Francisco, Seattle or another startup hub.  This is my story for coming upon this conclusion.'
 categories:
@@ -29,11 +23,7 @@ So - for the past two years I have lived, for at least 2 months at a time, in pl
 
 ### Granada, Spain
 
-<div id="attachment_334" class="wp-caption aligncenter" style="width: 650px">
-  <a href="http://naysawn.com/wp-content/uploads/2012/11/5921191672_d7b296178d_z.jpg"><img class="size-full wp-image-334" title="Granada Skyline" src="http://naysawn.com/wp-content/uploads/2012/11/5921191672_d7b296178d_z.jpg" alt="Granada Skyline" width="640" height="427" /></a><p class="wp-caption-text">
-    Granada Skyline
-  </p>
-</div>
+<img class="size-full wp-image-334" title="Granada Skyline" src="/blog_assets/2012/11/5921191672_d7b296178d_z.jpg" alt="Granada Skyline" />
 
 My girlfriend, [Lindsey][2], and I spent 2 months living in Granada, Spain.
 
@@ -47,11 +37,7 @@ While we had a great time, professionally we advanced very little by being in Gr
 
 ### Montreal, Canada
 
-<div id="attachment_336" class="wp-caption aligncenter" style="width: 728px">
-  <a href="http://naysawn.com/wp-content/uploads/2012/11/381534_10150356144983741_1047998364_n.jpg"><img class="size-full wp-image-336" title="Montreal Streets" src="http://naysawn.com/wp-content/uploads/2012/11/381534_10150356144983741_1047998364_n.jpg" alt="Montreal Streets" width="718" height="431" /></a><p class="wp-caption-text">
-    On the streets of Montreal, with Safa and Nika
-  </p>
-</div>
+<img class="size-full wp-image-336" title="Montreal Streets" src="/blog_assets/2012/11/381534_10150356144983741_1047998364_n.jpg" alt="Montreal Streets"  />
 
 I spent 3 months living in Montreal next, trying to take [Art Sumo][5] to the next level. I always had fond memories of Montreal from college and had been going back every summer. It's hard not to enjoy life in Montreal in the summer. Festivals abound and just by walking up the street, I found myself always running into things to do.
 
@@ -60,12 +46,7 @@ I became pretty immersed in the small startup scene that exists in Montreal. Thi
 There certainly are the beginnings of a startup ecosystem in Montreal, complete with [incubators][8], conferences, government support, and a [small venture capital][9] community. I was pretty impressed with it and blogged about the perks of [bootstrapping in Montreal][10]. I may still come back some day, because I do love the city.
 
 ### Anloga, Ghana
-
-<div id="attachment_335" class="wp-caption aligncenter" style="width: 967px">
-  <a href="http://naysawn.com/wp-content/uploads/2012/11/321129_10100203398270167_1530283344_n.jpg"><img class="size-full wp-image-335" title="Ghana crew" src="http://naysawn.com/wp-content/uploads/2012/11/321129_10100203398270167_1530283344_n.jpg" alt="Naysawn in Ghana " width="957" height="551" /></a><p class="wp-caption-text">
-    Me in Ghana with Elvis and Vegas
-  </p>
-</div>
+<img class="size-full wp-image-335" title="Ghana crew" src="/blog_assets/2012/11/321129_10100203398270167_1530283344_n.jpg" alt="Naysawn in Ghana " />
 
 After 3 months in Montreal, I jumped on a plane to Ghana, which is located in Western Africa. My girlfriend, Lindsey, had been leading a [micro-finance team][11] handing out loans in rural Africa and it seemed like a good opportunity to interact with artists, hang out with her, and see Africa for the first time. I had the hope that I'd be able to iterate on the site from a 3G internet connection.
 
@@ -75,11 +56,7 @@ Ghana was amazing for other reasons, including the opportunity to meet artists a
 
 ### Santiago, Chile
 
-<div id="attachment_337" class="wp-caption aligncenter" style="width: 809px">
-  <a href="http://naysawn.com/wp-content/uploads/2012/11/458614_3421721217538_1404541506_o.jpg"><img class="size-full wp-image-337" title="Startup Chile Graduation" src="http://naysawn.com/wp-content/uploads/2012/11/458614_3421721217538_1404541506_o.jpg" alt="Start-up Chile" width="799" height="473" /></a><p class="wp-caption-text">
-    Some of the Start-up Chile Crew
-  </p>
-</div>
+<img class="size-full wp-image-337" title="Startup Chile Graduation" src="/blog_assets/2012/11/458614_3421721217538_1404541506_o.jpg" alt="Start-up Chile" />
 
 In Ghana I received notice that I was accepted in [Startup Chile][12]. The offer of Startup Chile was pretty compelling: 40K worth of business expenses to live in Chile among hundeds of other international entrepreneurs. It was too compelling to turn down, so I packed up my bags and arrived in Chile in the middle of January.
 
@@ -97,20 +74,19 @@ After living in many locations where I have felt like an extreme outlier, I've r
 
 ps. This blog post started as a comment on [Joel Gascoigne's blog][15].  He's a great read, check him out!
 
-&nbsp;
 
- [1]: http://www.artsumo.com
- [2]: https://www.vizify.com/lindsey-engh
- [3]: http://www.fourhourworkweek.com
- [4]: http://www.theolivepress.es/spain-news/2012/08/10/spains-unemployment-rate-hits-a-record-high/
- [5]: http://www.artsumo.com/
- [6]: http://startupfestival.com/
- [7]: http://notman.org/en/
- [8]: http://founderfuel.com/en/
- [9]: http://realventures.com/en/
- [10]: http://nextmontreal.com/2011/09/28/naysawn-naderi-art-sumo-start-up-chile/
- [11]: http://www.lumana.org
- [12]: http://www.startupchile.org/
- [13]: http://moz.com/rand/seattle-vs-the-valley/
- [14]: http://www.businessinsider.com/jim-rohn-youre-the-average-of-the-five-people-you-spend-the-most-time-with-2012-7
- [15]: http://joel.is/post/33589657176/the-magic-of-a-great-startup-ecosystem
+[1]: http://www.artsumo.com
+[2]: https://www.vizify.com/lindsey-engh
+[3]: http://www.fourhourworkweek.com
+[4]: http://www.theolivepress.es/spain-news/2012/08/10/spains-unemployment-rate-hits-a-record-high/
+[5]: http://www.artsumo.com/
+[6]: http://startupfestival.com/
+[7]: http://notman.org/en/
+[8]: http://founderfuel.com/en/
+[9]: http://realventures.com/en/
+[10]: http://nextmontreal.com/2011/09/28/naysawn-naderi-art-sumo-start-up-chile/
+[11]: http://www.lumana.org
+[12]: http://www.startupchile.org/
+[13]: http://moz.com/rand/seattle-vs-the-valley/
+[14]: http://www.businessinsider.com/jim-rohn-youre-the-average-of-the-five-people-you-spend-the-most-time-with-2012-7
+[15]: http://joel.is/post/33589657176/the-magic-of-a-great-startup-ecosystem
