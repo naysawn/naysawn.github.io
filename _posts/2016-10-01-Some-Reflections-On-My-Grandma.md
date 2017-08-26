@@ -37,5 +37,4 @@ There's no shortcut to building relationships with people and they can't be forg
 
 At the end of my grandmother's life, she was in a hospital like everyone else, with all of her earthly possessions (they weren't that many) nowhere to be found. It was the people's who's lives she touched that were around her and stayed with her until the end.  It's the lives who she touched, toughed and loved that carry forward her memory on this earth.
 
-
-I'm still coming to terms with her no longer being with us. 
+I'm still coming to terms with her no longer being with us.
