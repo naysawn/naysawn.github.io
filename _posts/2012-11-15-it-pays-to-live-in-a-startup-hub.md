@@ -23,7 +23,7 @@ So - for the past two years I have lived, for at least 2 months at a time, in pl
 
 ### Granada, Spain
 
-<img class="size-full wp-image-334" title="Granada Skyline" src="/blog_assets/2012/11/5921191672_d7b296178d_z.jpg" alt="Granada Skyline" />
+<img class="size-full wp-image-334" title="Granada Skyline" src="/assets/2012/11/5921191672_d7b296178d_z.jpg" alt="Granada Skyline" />
 
 My girlfriend, [Lindsey][2], and I spent 2 months living in Granada, Spain.
 
@@ -37,7 +37,7 @@ While we had a great time, professionally we advanced very little by being in Gr
 
 ### Montreal, Canada
 
-<img class="size-full wp-image-336" title="Montreal Streets" src="/blog_assets/2012/11/381534_10150356144983741_1047998364_n.jpg" alt="Montreal Streets"  />
+<img class="size-full wp-image-336" title="Montreal Streets" src="/assets/2012/11/381534_10150356144983741_1047998364_n.jpg" alt="Montreal Streets"  />
 
 I spent 3 months living in Montreal next, trying to take [Art Sumo][5] to the next level. I always had fond memories of Montreal from college and had been going back every summer. It's hard not to enjoy life in Montreal in the summer. Festivals abound and just by walking up the street, I found myself always running into things to do.
 
@@ -46,7 +46,7 @@ I became pretty immersed in the small startup scene that exists in Montreal. Thi
 There certainly are the beginnings of a startup ecosystem in Montreal, complete with [incubators][8], conferences, government support, and a [small venture capital][9] community. I was pretty impressed with it and blogged about the perks of [bootstrapping in Montreal][10]. I may still come back some day, because I do love the city.
 
 ### Anloga, Ghana
-<img class="size-full wp-image-335" title="Ghana crew" src="/blog_assets/2012/11/321129_10100203398270167_1530283344_n.jpg" alt="Naysawn in Ghana " />
+<img class="size-full wp-image-335" title="Ghana crew" src="/assets/2012/11/321129_10100203398270167_1530283344_n.jpg" alt="Naysawn in Ghana " />
 
 After 3 months in Montreal, I jumped on a plane to Ghana, which is located in Western Africa. My girlfriend, Lindsey, had been leading a [micro-finance team][11] handing out loans in rural Africa and it seemed like a good opportunity to interact with artists, hang out with her, and see Africa for the first time. I had the hope that I'd be able to iterate on the site from a 3G internet connection.
 
@@ -56,7 +56,7 @@ Ghana was amazing for other reasons, including the opportunity to meet artists a
 
 ### Santiago, Chile
 
-<img class="size-full wp-image-337" title="Startup Chile Graduation" src="/blog_assets/2012/11/458614_3421721217538_1404541506_o.jpg" alt="Start-up Chile" />
+<img class="size-full wp-image-337" title="Startup Chile Graduation" src="/assets/2012/11/458614_3421721217538_1404541506_o.jpg" alt="Start-up Chile" />
 
 In Ghana I received notice that I was accepted in [Startup Chile][12]. The offer of Startup Chile was pretty compelling: 40K worth of business expenses to live in Chile among hundreds of other international entrepreneurs. It was too compelling to turn down, so I packed up my bags and arrived in Chile in the middle of January.
 

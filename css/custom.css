@@ -1,3 +1,7 @@
-ul.posts{ list-style: none;}
+ul.posts{ list-style: none; }
 ul.posts li.year{margin-top:30px; font-size:24px; margin-bottom:5px;}
 ul.posts small{color: #9a9a9a; }
+
+@media (max-width: 48em) {
+  ul.posts{padding:0px;}
+}

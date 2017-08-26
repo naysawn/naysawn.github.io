@@ -17,7 +17,7 @@ Below are the ones which I think stand out, and why I think generosity makes goo
 
 ### Dropbox
 
-<img class="size-full wp-image-554 alignnone" title="dropbox" src="/blog_assets/2013/07/dropbox.jpg" alt="dropbox" />
+<img class="size-full wp-image-554 alignnone" title="dropbox" src="/assets/2013/07/dropbox.jpg" alt="dropbox" />
 
 [Dropbox][4], from the time they launched, gave everyone a free 2GB of storage space. While this may seem like nothing right now, when they launched in 2008 it was quite the hoopla. Not only did they give you 2GB but every time you helped them by telling others about dropbox, they helped you by giving you another 250MB of storage space. This created viral growth and allowed Dropbox to get in foot in the door to potential customers for their paid SKU.
 
@@ -57,11 +57,11 @@ Moz was also nice enough to give away a Roger figurine, the Moz mascot, to every
 
 A [site showing Roger][9] all over the world has even popped up. These are a few of my favorites:
 
-<img class="size-full wp-image-552 " title="Roger in a datacenter " src="/blog_assets/2013/07/4.jpg" alt="Roger in a datacenter" />
+<img class="size-full wp-image-552 " title="Roger in a datacenter " src="/assets/2013/07/4.jpg" alt="Roger in a datacenter" />
 
-### [<img class="size-full wp-image-551 " title="Roger on Coke" src="/blog_assets/2013/07/2.jpg" alt="Roger on Coke"  />][10]
+### [<img class="size-full wp-image-551 " title="Roger on Coke" src="/assets/2013/07/2.jpg" alt="Roger on Coke"  />][10]
 
-### [<img class="size-full wp-image-549 " title="Roger made some friends" src="/blog_assets/2013/07/1.jpg" alt="Roger made some friends"  />][11]
+### [<img class="size-full wp-image-549 " title="Roger made some friends" src="/assets/2013/07/1.jpg" alt="Roger made some friends"  />][11]
 
 ### Why Does This Work?
 
@@ -80,5 +80,5 @@ I'm going to try to think of ways to be generous in all my marketing efforts goi
 [7]: http://www.lululemon.com
 [8]: http://www.moz.com
 [9]: http://www.whereisroger.com
-[10]: /blog_assets/2013/07/2.jpg
-[11]: /blog_assets/2013/07/1.jpg
+[10]: /assets/2013/07/2.jpg
+[11]: /assets/2013/07/1.jpg

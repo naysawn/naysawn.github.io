@@ -13,7 +13,7 @@ categories:
   - Startups
 ---
 
-<img class="size-full wp-image-83" title="Startup Weekend Mantra" src="/blog_assets/2012/09/Screen-Shot-2012-09-27-at-1.05.31-PM.png" alt="Startup Weekend Mantra" />
+<img class="size-full wp-image-83" title="Startup Weekend Mantra" src="/assets/2012/09/Screen-Shot-2012-09-27-at-1.05.31-PM.png" alt="Startup Weekend Mantra" />
 
 I went to [Startup Weekend][1] for the first time a couple of weekends ago and wanted to provide a few suggestions for improvements. While Startup Weekends are clearly very popular and have scaled massively I worry that they are not nearly as effective as they could be.
 

@@ -12,7 +12,7 @@ Ever since coming back from bouncing around the world, I've been mulling over th
 
 With these thoughts in mind, I popped open [Manage Your Day To Day: Build Your Routine, Find Your Focus, and Sharpen Your Creative Mind][3], a book which was highly recommended to me by a friend.
 
-[<img class=" wp-image-582 alignnone" style="width: 100%; max-width: 700px;" title="The Book" src="/blog_assets/2014/03/1.jpg" alt="The Book" />][4]
+[<img class=" wp-image-582 alignnone" style="width: 100%; max-width: 700px;" title="The Book" src="/assets/2014/03/1.jpg" alt="The Book" />][4]
 
 The book is authored by self help gurus [99u][5], and it had a profound influence on me - specifically about structuring my day for maximum productivity. Below are the top 10 things that I learned from the book.
 
@@ -38,7 +38,7 @@ For me - my productivity routine has become cleaning my desk, setting up a cup o
 
 ### 3. Build Renewal Into Your Day And Week
 
-[<img class="alignnone size-full wp-image-581" title="2" src="/blog_assets/2014/03/2.png" alt="Sleeping on the job" />][6]
+[<img class="alignnone size-full wp-image-581" title="2" src="/assets/2014/03/2.png" alt="Sleeping on the job" />][6]
 
 Why is it that I'm not nearly as productive on Thursday as I am on Monday? I think this stems from being renewed on Monday but feeling somewhat exhausted from the week on a Thursday.
 
@@ -86,7 +86,7 @@ I need to banish multi-tasking from my life. But first, just give me a sec, ther
 
 ### 7. Tame Your Email, Facebook + Smart Phone
 
-<img class="alignnone size-full wp-image-583" title="3" src="/blog_assets/2014/03/3.jpg" alt="3" width="680" height="451" />
+<img class="alignnone size-full wp-image-583" title="3" src="/assets/2014/03/3.jpg" alt="3" width="680" height="451" />
 
 Once we realize the cost of distractions, we need to re-work our tools to harness our focus rather than take it away. While technology has allowed us to stay better connected than ever before, this connectedness is also causing us to lose our creative focus. The biggest culprits are email, social media and our smart phones. Apparently, we on average spend 28% of our day on email alone!
 
@@ -122,7 +122,7 @@ I've personally found that a better approach is to look at everything as a work 
 
 ### 10. Invest in Building Willpower
 
-<img class="alignnone  wp-image-584" style="width: 100%; max-width: 700px;" title="4" src="/blog_assets/2014/03/4.jpg" alt="4" />
+<img class="alignnone  wp-image-584" style="width: 100%; max-width: 700px;" title="4" src="/assets/2014/03/4.jpg" alt="4" />
 
 At the end of the day a lot of these habits come down to nurturing the self discipline to follow them. This requires developing our self control muscles.
 
@@ -139,9 +139,9 @@ One thing to note - as I typed out this list, I broke almost every single habit!
 [1]: http://thehackacademy.com/blog/10-Ways-To-Create-A-Productive-Routine/
 [2]: http://www.naysawn.com/it-pays-to-live-in-a-startup-hub/
 [3]: http://www.amazon.com/Manage-Your-Day---Day-Creative/dp/1477800670/
-[4]: /blog_assets/2014/03/1.jpg
+[4]: /assets/2014/03/1.jpg
 [5]: http://99u.com/
-[6]: /blog_assets/2014/03/2.png
+[6]: /assets/2014/03/2.png
 [7]: http://www.theenergyproject.com/blog/author/tony-schwartz
 [8]: http://www.happiness-project.com/about/
 [9]: http://danariely.com/

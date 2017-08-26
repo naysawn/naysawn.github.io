@@ -52,7 +52,7 @@ The spike from Hacker News sent in about 3700 visitors with the following breakd
 <div>
 </div>
 
-<img class="size-full wp-image-161" title="Total Visitors" src="/blog_assets/2012/10/Total-Visitors.jpg" alt="Total Visitors by hour" />
+<img class="size-full wp-image-161" title="Total Visitors" src="/assets/2012/10/Total-Visitors.jpg" alt="Total Visitors by hour" />
 
 ### BUT Only 10% of Visitors Viewed More Than 1 Page
 
@@ -60,7 +60,7 @@ While the post generated a lot of traffic, 90% of the visitors bounced.
 
 Here is the engagement breakdown from Google Analytics:
 
-<img class="size-full wp-image-164" title="Engagement Numbers" src="/blog_assets/2012/10/Engagement-by-Source.png" alt="Engagement Numbers" width="600" height="216" />
+<img class="size-full wp-image-164" title="Engagement Numbers" src="/assets/2012/10/Engagement-by-Source.png" alt="Engagement Numbers" width="600" height="216" />
 
 Google Analytics Reports That 90% Left Within 10s
 
@@ -78,7 +78,7 @@ While Hacker News and Reddit sent the most traffic in terms of the percentage o
 
 Hacker News and Reddit nonetheless dwarfed Facebook and Twitter in the raw counts of users who viewed more than 1 page.
 
-<img class="size-full wp-image-168" title="Over 10 seconds Breakdown" src="/blog_assets/2012/10/Over-10-seconds-Breakdown.jpg" alt="Over 10 seconds Breakdown" />
+<img class="size-full wp-image-168" title="Over 10 seconds Breakdown" src="/assets/2012/10/Over-10-seconds-Breakdown.jpg" alt="Over 10 seconds Breakdown" />
 
 Reddit and Hacker News still sent the most users who viewed more than 1 page
 

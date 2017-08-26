@@ -16,7 +16,7 @@ standard_seo_post_meta_description:
 categories:
   - Startups
 ---
-<img class="size-full wp-image-93" title="Santiago" src="/blog_assets/2012/10/Santiago_winter1.jpg" alt="Santiago" />
+<img class="size-full wp-image-93" title="Santiago" src="/assets/2012/10/Santiago_winter1.jpg" alt="Santiago" />
 
 The Santiago, Chile Skyline
 
@@ -30,7 +30,7 @@ While I will share my thoughts on the experience of Start-up Chile in another bl
 
 ### 1. Chef Surfing
 
-<img class="size-full wp-image-25" title="Chef Surfing" src="/blog_assets/2012/09/Chef-Surfing.jpg" alt="Chef Surfing Home Page" />
+<img class="size-full wp-image-25" title="Chef Surfing" src="/assets/2012/09/Chef-Surfing.jpg" alt="Chef Surfing Home Page" />
 
 [Chef Surfing][2] facilitates getting chefs to cook for you. While this might seem like an odd idea in North America, in **most part** of South America having people into your home to cook for you is very common especially among the higher class. In fact, nearly every Chilean I spoke to has a nana who cooks and cleans for them. Despite it being common, people often struggle with finding nanas to cook for them - this is where Chef Surfing comes to the rescue.
 
@@ -40,7 +40,7 @@ Chef Surfing is just picking up momentum now and has already over 1000 chefs on 
 
 ### 2. Student Loan Hero
 
-<img class="size-full wp-image-27" title="Student Loan Hero" src="/blog_assets/2012/09/Student-Loan-Heropng.png" alt="Student Loan Hero" />
+<img class="size-full wp-image-27" title="Student Loan Hero" src="/assets/2012/09/Student-Loan-Heropng.png" alt="Student Loan Hero" />
 
 Did you know that there is over 1 trillion dollars in **s**tudent** l**oans in the US alone? With rising tuition prices, this is a trend**,** which is likely to continue.
 
@@ -58,13 +58,13 @@ If you act **fast**, you may be able to still get** a** **$100-off for a pre-ord
 
 ### 4. Local Guiding
 
-<img class="size-large wp-image-31" title="Local Guiding" src="/blog_assets/2012/09/Local-Guiding-1024x704.png" alt="Local Guiding Homepage"  /><
+<img class="size-large wp-image-31" title="Local Guiding" src="/assets/2012/09/Local-Guiding-1024x704.png" alt="Local Guiding Homepage"  /><
 
 [Local Guiding][6] is AirBnB for local tour guides. In less Silicon Valley speak, Local Guiding is a directory of tours that you can do, complete with reviews provided by guides from all over the world. They have good traction and have tours available in many cities around the world. They recently overhauled their design and I think the new skin looks great!
 
 ### 5. Content DJ
 
-[<img class="aligncenter size-full wp-image-32" title="content dj" src="/blog_assets/2012/09/content-dj.png" alt="content dj" />][7]
+[<img class="aligncenter size-full wp-image-32" title="content dj" src="/assets/2012/09/content-dj.png" alt="content dj" />][7]
 
 Have a start-up? Want to engage with your fans on social media? Hate coming through dozens of blogs to find interesting content to share on your Facebook and Twitter page? Here comes Content DJ to your rescue!
 
@@ -84,7 +84,7 @@ A team of fellow Canadians, fresh from school at Waterloo, worked very hard the 
 
 ### 7. Art Sumo
 
-<img class="size-large wp-image-36" title="Art Sumo" src="/blog_assets/2012/09/Art-Sumo-1024x471.png" alt="Art Sumo" />
+<img class="size-large wp-image-36" title="Art Sumo" src="/assets/2012/09/Art-Sumo-1024x471.png" alt="Art Sumo" />
 
 Would it be wrong not to mention my own startup in the list? [Art Sumo][10] makes it possible to purchase affordable artwork in North America. To make it affordable**,** we hunt for amazing**,** undiscovered artists in the developing world and make their artwork available for sale in North America. We have been around since last year and have already featured artists from Haiti, Ecuador, Brazil, Russia, Mexico, Ghana, Vietnam, Philippines, and Colombia.
 
@@ -112,7 +112,7 @@ I'm rooting for them to gain traction to make it safer to ride in a taxi in Sout
 
 ### 10. Regalii
 
-<img class="size-large wp-image-40" title="Regalii" src="/blog_assets/2012/09/Regalii-1024x491.png" alt="Regalii" />
+<img class="size-large wp-image-40" title="Regalii" src="/assets/2012/09/Regalii-1024x491.png" alt="Regalii" />
 
 While I said that you need to be launched to be included in the list, I'm making one exception.
 

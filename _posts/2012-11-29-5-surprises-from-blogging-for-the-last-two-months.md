@@ -10,7 +10,7 @@ standard_seo_post_meta_description:
 categories:
   - Blogging
 ---
-<img src="/blog_assets/2012/11/blogging-photo.png"/>
+<img src="/assets/2012/11/blogging-photo.png"/>
 
 I am approximately 2 months into blogging and I thought I'd share some surprises that I have learned along the way. Below are the top five surprises I've learned in the past couple of months.  In short I am sold on the value of blogging.
 
@@ -45,13 +45,13 @@ I've found that posts which mention concepts around which Art Sumo are based or 
 While the MBA post drove quite a bit of traffic to my personal blog, almost none of it resulted in signups on Art Sumo. While signups on [Art Sumo][6] were not my goal in blogging, they sure are nice.
 
 <div id="attachment_352" class="wp-caption aligncenter" >
-  <a href="/blog_assets/2012/11/Recent-Traffic.png"><img class="size-large wp-image-352" title="Recent Traffic on Naysawn.com" src="/blog_assets/2012/11/Recent-Traffic-1024x195.png" alt="Recent Traffic" /></a><p class="wp-caption-text">
+  <a href="/assets/2012/11/Recent-Traffic.png"><img class="size-large wp-image-352" title="Recent Traffic on Naysawn.com" src="/assets/2012/11/Recent-Traffic-1024x195.png" alt="Recent Traffic" /></a><p class="wp-caption-text">
     This is how blog traffic has looked over the past 2 months. The spikes correspond to posts.
   </p>
 </div>
 
 <div id="attachment_354" class="wp-caption aligncenter" >
-  <a href="/blog_assets/2012/11/Signups.png"><img class="size-large wp-image-354" title="Signups on Art Sumo" src="/blog_assets/2012/11/Signups-1024x174.png" alt="Signups on Art Sumo"  /></a><p class="wp-caption-text">
+  <a href="/assets/2012/11/Signups.png"><img class="size-large wp-image-354" title="Signups on Art Sumo" src="/assets/2012/11/Signups-1024x174.png" alt="Signups on Art Sumo"  /></a><p class="wp-caption-text">
     This is a graph of signups on Art Sumo,  Note the largest spikes correspond to posts which mentioned Art Sumo
   </p>
 </div>
@@ -68,7 +68,7 @@ I have since learned that any popular internet blog is scraped, translated and r
 
 Thanks Sean for the [cover photo][13].
 
-[1]: /blog_assets/2012/11/blogging-photo.png
+[1]: /assets/2012/11/blogging-photo.png
 [2]: http://naysawn.com/some-suggestions-for-improving-startup-weekend/
 [3]: http://naysawn.com/hey-entrepreneur-please-dont-get-an-mba/
 [4]: http://appifier.wordpress.com/2012/10/11/hey-entrepreneur-please-get-an-mba/

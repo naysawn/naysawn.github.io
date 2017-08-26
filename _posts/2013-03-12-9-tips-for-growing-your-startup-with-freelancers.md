@@ -17,7 +17,7 @@ categories:
   - Startups
 ---
 
-<img class="size-full wp-image-496" title="Should You Outsource?" src="/blog_assets/2013/03/at-computer.jpg" alt="Should You Outsource?" />
+<img class="size-full wp-image-496" title="Should You Outsource?" src="/assets/2013/03/at-computer.jpg" alt="Should You Outsource?" />
 
 I've gotten in the habit of paying freelancers to help me do things. While I would prefer not to spend the money, I figure that most talented founders could be commanding great consulting rates so it seems silly to work on tasks that someone else could do for much less.
 
