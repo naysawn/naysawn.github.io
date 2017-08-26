@@ -86,7 +86,7 @@ I need to banish multi-tasking from my life. But first, just give me a sec, ther
 
 ### 7. Tame Your Email, Facebook + Smart Phone
 
-<img class="alignnone size-full wp-image-583" title="3" src="/assets/2014/03/3.jpg" alt="3" width="680" height="451" />
+<img class="alignnone" src="/assets/2014/03/3.jpg" />
 
 Once we realize the cost of distractions, we need to re-work our tools to harness our focus rather than take it away. While technology has allowed us to stay better connected than ever before, this connectedness is also causing us to lose our creative focus. The biggest culprits are email, social media and our smart phones. Apparently, we on average spend 28% of our day on email alone!
 

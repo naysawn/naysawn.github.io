@@ -50,7 +50,7 @@ body {
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.4;
 }
 @media (min-width: 38em) {
   html {
@@ -81,7 +81,7 @@ a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
+  margin-bottom: 1.25rem;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
@@ -95,7 +95,7 @@ h2 {
   font-size: 1.5rem;
 }
 h3 {
-  margin-top: 1.5rem;
+  margin-top: 2rem;
   font-size: 1.25rem;
 }
 h4, h5, h6 {
@@ -106,7 +106,7 @@ h4, h5, h6 {
 /* Body text */
 p {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
 }
 
 strong {
