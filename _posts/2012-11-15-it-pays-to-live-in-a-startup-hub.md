@@ -4,7 +4,7 @@ author: admin
 layout: post
 permalink: /it-pays-to-live-in-a-startup-hub/
 dsq_thread_id:
-  - 916626629 
+  - 916626629
 standard_seo_post_meta_description:
   - 'I think it makes sense build a startup in San Francisco, Seattle or another startup hub.  This is my story for coming upon this conclusion.'
 categories:
@@ -58,7 +58,7 @@ Ghana was amazing for other reasons, including the opportunity to meet artists a
 
 <img class="size-full wp-image-337" title="Startup Chile Graduation" src="/blog_assets/2012/11/458614_3421721217538_1404541506_o.jpg" alt="Start-up Chile" />
 
-In Ghana I received notice that I was accepted in [Startup Chile][12]. The offer of Startup Chile was pretty compelling: 40K worth of business expenses to live in Chile among hundeds of other international entrepreneurs. It was too compelling to turn down, so I packed up my bags and arrived in Chile in the middle of January.
+In Ghana I received notice that I was accepted in [Startup Chile][12]. The offer of Startup Chile was pretty compelling: 40K worth of business expenses to live in Chile among hundreds of other international entrepreneurs. It was too compelling to turn down, so I packed up my bags and arrived in Chile in the middle of January.
 
 I found Santiago to be pretty awesome but still probably not the best place to be running an internet company. Start-up Chile was a great experience. Being in SUP provided a community of entrepreneurs, a co-working space, a network, and a friend pool from day one. However, it did lack a few key elements that the Start-up Chile program itself is trying to solve by paying entrepreneurs to relocate to Chile. These include: 1 - an actual tech sector with big companies and numerous programmers and, 2 - a community of mentors that can help you get to the next level.
 
