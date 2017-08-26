@@ -1,3 +1,6 @@
 url: http://www.naysawn.com
 description: Some thoughts on entrepreneurship
 title: Naysawn
+
+plugins:
+  - jekyll-sitemap
