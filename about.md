@@ -10,3 +10,5 @@ Hey there - I'm Naysawn. I blog haphazardly (pretty irregularly) and am a co-fou
 <small>I may have peaked in grade 5</small>
 
 ![Scott birthday.jpg](/uploads/Scott%20birthday.jpg)
+
+![Screenshot 2020-06-05 18.31.18.jpg](/uploads/Screenshot%202020-06-05%2018.31.18.jpg)
