@@ -8,3 +8,5 @@ Hey there - I'm Naysawn. I blog haphazardly (pretty irregularly) and am a co-fou
 
 <img style="width: 300px;" src="/assets/photos/chess.jpg" />
 <small>I may have peaked in grade 5</small>
+
+![Scott birthday.jpg](/uploads/Scott%20birthday.jpg)
