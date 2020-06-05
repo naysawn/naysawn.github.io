@@ -1,16 +1,19 @@
 ---
 title: It Pays To Live In a Startup Hub
+date: 2012-11-15 00:00:00 Z
+permalink: "/it-pays-to-live-in-a-startup-hub/"
+categories:
+- Startups
+- Travel
 author: admin
 layout: post
-permalink: /it-pays-to-live-in-a-startup-hub/
 dsq_thread_id:
-  - 916626629
+- 916626629
 standard_seo_post_meta_description:
-  - 'I think it makes sense build a startup in San Francisco, Seattle or another startup hub.  This is my story for coming upon this conclusion.'
-categories:
-  - Startups
-  - Travel
+- I think it makes sense build a startup in San Francisco, Seattle or another startup
+  hub.  This is my story for coming upon this conclusion.
 ---
+
 I've had an interesting two years bouncing around the world while building [Art Sumo][1]. While I initially left Microsoft with a plan to build a company where the cost of living was lower, I've decided that it is worth the higher cost of living to live in a startup hub. Below, I will share with you my story and lead you through my reasons of why I have changed my thinking.
 
 ### Leaving Seattle

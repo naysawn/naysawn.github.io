@@ -1,15 +1,18 @@
 ---
 title: Why Blogging Will Be Different This Time
+date: 2012-09-19 00:00:00 Z
+permalink: "/why-blogging-this-time-will-be-different/"
+categories:
+- Blogging
 author: admin
 layout: post
-permalink: /why-blogging-this-time-will-be-different/
 dsq_thread_id:
-  - 849881851
+- 849881851
 standard_seo_post_meta_description:
-  - 'Some tips on how to approach blogging to keep you motivated to keep blogging through good times and bad. '
-categories:
-  - Blogging
+- 'Some tips on how to approach blogging to keep you motivated to keep blogging through
+  good times and bad. '
 ---
+
 I have tried to start a blog 3 times or 4 times. Each time it has failed to amass more than one post.
 
 I believe that I have never maintained the dedicated effort in blogging for three reasons - 1. The return on investment has never seemed to make sense, 2 - blogging has always felt like a chore since I haven't blogged about subjects I am passionate about and 3 - blog posts have taken too long to write for their expected return on investment.

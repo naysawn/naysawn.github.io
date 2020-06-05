@@ -1,9 +1,12 @@
 ---
-title: 'Hey Entrepreneur, Please Do not Get an MBA'
+title: Hey Entrepreneur, Please Do not Get an MBA
+date: 2012-10-11 00:00:00 Z
+permalink: "/hey-entrepreneur-please-dont-get-an-mba/"
 author: admin
 layout: post
-permalink: /hey-entrepreneur-please-dont-get-an-mba/
-standard_seo_post_meta_description: It seems every time I am at crossroads in my life, I have contemplated getting an MBA. Here are the 5 reasons why I decided against an MBA.
+standard_seo_post_meta_description: It seems every time I am at crossroads in my life,
+  I have contemplated getting an MBA. Here are the 5 reasons why I decided against
+  an MBA.
 ---
 
 It seems that every time I am at a crossroad in my life, I contemplate getting an MBA.

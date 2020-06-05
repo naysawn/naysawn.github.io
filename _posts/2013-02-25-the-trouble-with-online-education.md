@@ -1,21 +1,26 @@
 ---
 title: The Trouble With Online Education
+date: 2013-02-25 00:00:00 Z
+permalink: "/the-trouble-with-online-education/"
+categories:
+- Education
 author: admin
 layout: post
-permalink: /the-trouble-with-online-education/
 socialize_text:
-  - 'If you enjoyed this post, please consider <a href="#comments">leaving a comment</a> or <a href="http://naysawn.com/feed/">subscribing to this<abbr title="Really Simple Syndication"> RSS</abbr> feed</a>.'
+- If you enjoyed this post, please consider <a href="#comments">leaving a comment</a>
+  or <a href="http://naysawn.com/feed/">subscribing to this<abbr title="Really Simple
+  Syndication"> RSS</abbr> feed</a>.
 socialize:
-  - 1,2,5,7,11,12
+- 12571112
 dsq_thread_id:
-  - 1100095274
+- 1100095274
 standard_seo_post_level_layout:
-  - 
+- 
 standard_seo_post_meta_description:
-  - 'On Coursera and Udacity course completion rates are just 90%.  What can we do to hack ourselves to ensure that we learn what we want to?'
-categories:
-  - Education
+- On Coursera and Udacity course completion rates are just 90%.  What can we do to
+  hack ourselves to ensure that we learn what we want to?
 ---
+
 I'm confused.
 
 I am a huge fan of learning new things. I feel that in this ever changing world, the person who learns the fastest is going to be the one ahead at the end of the day.

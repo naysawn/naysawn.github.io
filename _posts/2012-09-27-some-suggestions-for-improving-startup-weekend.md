@@ -1,16 +1,18 @@
 ---
 title: Some Suggestions for Improving Startup Weekend
+date: 2012-09-27 00:00:00 Z
+permalink: "/some-suggestions-for-improving-startup-weekend/"
+categories:
+- Startups
 author: admin
 layout: post
-permalink: /some-suggestions-for-improving-startup-weekend/
 dsq_thread_id:
-  - 859080008
+- 859080008
 standard_seo_post_level_layout:
-  - 
+- 
 standard_seo_post_meta_description:
-  - 'I spent the past weekend going to Startup Weekend for the first time.  These are my 4 suggestions for improving them.'
-categories:
-  - Startups
+- I spent the past weekend going to Startup Weekend for the first time.  These are
+  my 4 suggestions for improving them.
 ---
 
 <img class="size-full wp-image-83" title="Startup Weekend Mantra" src="/assets/2012/09/Screen-Shot-2012-09-27-at-1.05.31-PM.png" alt="Startup Weekend Mantra" />
