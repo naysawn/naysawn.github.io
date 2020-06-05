@@ -1,21 +1,27 @@
 ---
 title: My Favorite Start-up Chile Companies
+date: 2012-10-04 00:00:00 Z
+permalink: "/my-favorite-start-up-chile-companies/"
+categories:
+- Startups
 author: admin
 layout: post
-permalink: /my-favorite-start-up-chile-companies/
 socialize_text:
-  - 'If you enjoyed this post, please consider <a href="#comments">leaving a comment</a> or <a href="http://naysawn.com/feed/" title="Syndicate this site using RSS">subscribing to the <abbr title="Really Simple Syndication">RSS</abbr> feed</a> to have future articles delivered to your feed reader.'
+- If you enjoyed this post, please consider <a href="#comments">leaving a comment</a>
+  or <a href="http://naysawn.com/feed/" title="Syndicate this site using RSS">subscribing
+  to the <abbr title="Really Simple Syndication">RSS</abbr> feed</a> to have future
+  articles delivered to your feed reader.
 socialize:
-  - 1,2,9
+- 129
 dsq_thread_id:
-  - 859077707
+- 859077707
 standard_seo_post_level_layout:
-  - 
+- 
 standard_seo_post_meta_description:
-  - 'My Favorites are: Chef Surfing, Student Loan Hero, ZBoard, Local Guiding, Art Sumo, Content DJ, Goose Chase, Jogabo, Safer Taxi and Regalii.'
-categories:
-  - Startups
+- 'My Favorites are: Chef Surfing, Student Loan Hero, ZBoard, Local Guiding, Art Sumo,
+  Content DJ, Goose Chase, Jogabo, Safer Taxi and Regalii.'
 ---
+
 <img class="size-full wp-image-93" title="Santiago" src="/assets/2012/10/Santiago_winter1.jpg" alt="Santiago" />
 
 The Santiago, Chile Skyline

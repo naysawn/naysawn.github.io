@@ -1,10 +1,11 @@
 ---
 title: Some Reflections On My Grandma
+date: 2016-10-01 00:00:00 Z
+permalink: "/some-reflections-on-my-grandma/"
+categories:
+- Personal
 author: admin
 layout: post
-permalink: /some-reflections-on-my-grandma/
-categories:
-  - Personal
 ---
 
 My grandmother, Sadigheh Naderi, passed away on last Friday after some 86 years on this earth.  

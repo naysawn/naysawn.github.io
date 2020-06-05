@@ -1,12 +1,13 @@
 ---
-title: 'Be Generous - It is Just Good Business'
+title: Be Generous - It is Just Good Business
+date: 2013-07-17 00:00:00 Z
+permalink: "/be-generous/"
+categories:
+- Marketing
+- Startups
 author: admin
 layout: post
-permalink: /be-generous/
 dsq_thread_id: 1503211242
-categories:
-  - Marketing
-  - Startups
 ---
 
 [Rand Fishkin's][1] closing presentation at [Mozcon][2] left me thinking. In it Rand gave a scathing review of current internet marketing practices and gave a strong [call to action][3] that if you really want people to talk about your stuff, you need to be Transparent, Authentic, **Generous**, Fun, Empathetic and Exceptional.

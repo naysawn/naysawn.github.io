@@ -1,15 +1,18 @@
 ---
 title: 5 Surprises From Blogging For the Last Two Months
+date: 2012-11-29 00:00:00 Z
+permalink: "/5-surprises-from-blogging-for-the-last-two-months/"
+categories:
+- Blogging
 author: admin
 layout: post
-permalink: /5-surprises-from-blogging-for-the-last-two-months/
 dsq_thread_id:
-  - 929744875
+- 929744875
 standard_seo_post_meta_description:
-  - "Some Lessons: Write what's easy, controversy drives traffic, you will be ripped off, and not all traffic is created equally."
-categories:
-  - Blogging
+- 'Some Lessons: Write what''s easy, controversy drives traffic, you will be ripped
+  off, and not all traffic is created equally.'
 ---
+
 <img src="/assets/2012/11/blogging-photo.png"/>
 
 I am approximately 2 months into blogging and I thought I'd share some surprises that I have learned along the way. Below are the top five surprises I've learned in the past couple of months.  In short I am sold on the value of blogging.

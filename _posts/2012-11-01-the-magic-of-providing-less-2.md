@@ -1,17 +1,20 @@
 ---
 title: The Magic of Providing Less
+date: 2012-11-01 00:00:00 Z
+permalink: "/the-magic-of-providing-less-2/"
+categories:
+- Startups
 author: admin
 layout: post
-permalink: /the-magic-of-providing-less-2/
 socialize:
-  - 2,1,3,7
+- 2137
 dsq_thread_id:
-  - 889668050
+- 889668050
 standard_seo_post_meta_description:
-  - "I have learned that you can compete by providing fewer, well-thought out choices.  Here is a look at why curation is a bootstrapper's friend"
-categories:
-  - Startups
+- I have learned that you can compete by providing fewer, well-thought out choices.  Here
+  is a look at why curation is a bootstrapper's friend
 ---
+
 I've noticed a trend among Internet startups: while some continue to focus on providing an endless amount of choice, many have determined that they can compete by providing fewer, well-thought out choices. My company, [Art Sumo][1], clearly took this approach and it's been working pretty well for us. Below I offer a few reasons why we decided to offer less, and outline the strategy of curation by looking at a couple of other startups who are succeeding by providing fewer options as well.
 
 ### Why would fewer be better?

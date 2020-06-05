@@ -1,15 +1,18 @@
 ---
-title: 'Hacker News vs. Facebook - A Look At How Their Traffic Differs'
+title: Hacker News vs. Facebook - A Look At How Their Traffic Differs
+date: 2012-10-18 00:00:00 Z
+permalink: "/a-look-at-traffic-from-twitter-hackernews-and-reddit/"
+categories:
+- Blogging
 author: admin
 layout: post
-permalink: /a-look-at-traffic-from-twitter-hackernews-and-reddit/
 dsq_thread_id:
-  - 889987440
+- 889987440
 standard_seo_post_meta_description:
-  - An analysis of what hitting the front page of Hacker News will do in comparison the traffic from Reddit, Twitter and Facebook.
-categories:
-  - Blogging
+- An analysis of what hitting the front page of Hacker News will do in comparison
+  the traffic from Reddit, Twitter and Facebook.
 ---
+
 I recently hit the Hacker News homepage for a post which discussed my favorite [startups from Start-up Chile][1], it was on the homepage for a couple of hours.  I'll break down how useful this traffic was below because to my surprise, while the post generated over 3700 visitors, only 10% of them viewed more than 1 page.
 
 ### The Traffic

@@ -1,15 +1,18 @@
 ---
 title: Embrace Upsetting People
+date: 2013-02-06 00:00:00 Z
+permalink: "/embrace-ruffling-feathers/"
+categories:
+- Blogging
 author: admin
 layout: post
-permalink: /embrace-ruffling-feathers/
 dsq_thread_id:
-  - 1068057746
+- 1068057746
 standard_seo_post_meta_description:
-  - 'If want to make a big change, I would suggest embracing upsetting people from time to time. '
-categories:
-  - Blogging
+- 'If want to make a big change, I would suggest embracing upsetting people from time
+  to time. '
 ---
+
 I've learned that you need to be ok with upsetting people from time to time to if you are going to attempt to lead a movement.
 
 On Friday, I accidentally published a [blog post][1], which discusses absurd paintings which have sold for over a million dollars on the Art Sumo blog. Although, I share a view that the art which caters to the rich is somewhat odd, I felt that the post could make me look silly and I did not want to ruffle too many feathers when launching [artsumo.com][2], so I decided not to publish it.

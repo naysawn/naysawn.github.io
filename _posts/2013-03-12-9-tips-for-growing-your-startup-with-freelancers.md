@@ -1,20 +1,22 @@
 ---
 title: 9 Tips For Growing Your Startup With Freelancers
+date: 2013-03-12 00:00:00 Z
+permalink: "/9-tips-for-growing-your-startup-with-freelancers/"
+categories:
+- Startups
 author: admin
 layout: post
-permalink: /9-tips-for-growing-your-startup-with-freelancers/
 socialize_text:
-  - 'If you have any additional tips, please do include them in the comments. '
+- 'If you have any additional tips, please do include them in the comments. '
 socialize:
-  - 1,2,5,7
+- 1257
 dsq_thread_id:
-  - 1130678839
+- 1130678839
 standard_seo_post_level_layout:
-  - 
+- 
 standard_seo_post_meta_description:
-  - 9 Tips for leveraging freelancers and outsourcers on oDesk, Mechnical Turk and Craigslist to help build your startup.
-categories:
-  - Startups
+- 9 Tips for leveraging freelancers and outsourcers on oDesk, Mechnical Turk and Craigslist
+  to help build your startup.
 ---
 
 <img class="size-full wp-image-496" title="Should You Outsource?" src="/assets/2013/03/at-computer.jpg" alt="Should You Outsource?" />

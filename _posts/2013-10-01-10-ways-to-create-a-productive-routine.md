@@ -1,13 +1,15 @@
 ---
 title: 10 Ways To Create A Productive Routine
+date: 2013-10-01 00:00:00 Z
+permalink: "/10-ways-to-create-a-productive-routine/"
+categories:
+- Productivity
 author: admin
 layout: post
-permalink: /10-ways-to-create-a-productive-routine/
 dsq_thread_id:
-  - 2443235300
-categories:
-  - Productivity
+- 2443235300
 ---
+
 Ever since coming back from bouncing around the world, I've been mulling over the cost of constantly changing up a routine. While traveling around is amazing, with change abounding - [it's really hard create a flow to your day][2]. I find when people both work and travel, they tend to do neither one particularly well.
 
 With these thoughts in mind, I popped open [Manage Your Day To Day: Build Your Routine, Find Your Focus, and Sharpen Your Creative Mind][3], a book which was highly recommended to me by a friend.
