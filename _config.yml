@@ -1,0 +1,14 @@
+---
+title: Naysawn
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+url: http://www.naysawn.com
+description: Some thoughts on entrepreneurship
+plugins:
+- jekyll-sitemap
